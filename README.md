@@ -12,6 +12,6 @@
 
 1. Убедитесь, что у вас установлен Python 3.
 2. Установите `tkinter` (обычно он уже входит в стандартную библиотеку Python).
-3. Запустите файл `game.py`:
+3. Запустите файл `First_game.py`:
    ```bash
-   python game.py
+   python First_game.py

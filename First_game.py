@@ -26,7 +26,7 @@ def rock_paper_scissors():
     # Окно для игры
     rps_window = tk.Toplevel()
     rps_window.title("Камень, Ножницы, Бумага")
-    rps_window.geometry("300x200")
+    rps_window.geometry("500x300")
 
     tk.Label(rps_window, text="Выбери фигуру:").pack(pady=10)
 
